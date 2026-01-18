@@ -24,10 +24,6 @@ RLC works in three chess environments:
 - Concepts: Deep Q learning, Monte Carlo Tree Search 
 
 
-# Installation
-```bash
-pip install git+https://github.com/arjangroen/RLC.git
-```
     
 # Usage
     
